@@ -1,2 +1,0 @@
-model_checkpoint_path: "rnn_time_series_model"
-all_model_checkpoint_paths: "rnn_time_series_model"
